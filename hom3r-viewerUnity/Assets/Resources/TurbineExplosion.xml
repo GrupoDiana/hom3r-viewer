@@ -1,0 +1,271 @@
+<Product>
+ 	<ProductTree>
+		<Node name="root">
+			<ExplosionInfo>
+				<ExplodeX>0.0</ExplodeX>
+				<ExplodeY>0.0</ExplodeY>
+				<ExplodeZ>0.0</ExplodeZ>
+				<ExplodeMin>0.0</ExplodeMin>
+			</ExplosionInfo>
+			
+			<Children>
+				<Node name="Corona de equilibrado presion baja">
+					<ExplosionInfo>
+						<ExplodeX>0.0</ExplodeX>
+						<ExplodeY>0.0</ExplodeY>
+						<ExplodeZ>0.0</ExplodeZ>
+						<ExplodeMin>0.0</ExplodeMin>
+					</ExplosionInfo>
+					
+					<Children>
+						<Node name="Parte superior">
+							<ExplosionInfo>
+								<ExplodeX>0.0</ExplodeX>
+								<ExplodeY>0.0</ExplodeY>
+								<ExplodeZ>1.0</ExplodeZ>
+								<ExplodeMin>100.0</ExplodeMin>
+							</ExplosionInfo>
+							
+							<GameObjects>
+								<GO>Agujeros</GO>
+								<GO>Agujeros_Tipo_54</GO>
+								<GO>Agujeros_Tipo_55</GO>
+								<GO>Agujeros_Tipo_56</GO>
+								<GO>Agujeros_Tipo_57</GO>
+								<GO>Agujeros_Tipo_58</GO>
+								<GO>Cuerpo_Dummy_Parte_Superior</GO>
+								<GO>Junta_Horizontal_Parte_Superior</GO>
+								<GO>Zona_Mecanizada_Encastre_Peine_1</GO>
+								<GO>Zona_Mecanizada_Encastre_Peine_2</GO>
+								<GO>Zona_Mecanizada_Encastre_Peine_3</GO>
+								<GO>Zona_Mecanizada_Encastre_Peine_4</GO>
+							</GameObjects>
+						</Node>
+						
+						<Node name="Parte inferior">
+							<ExplosionInfo>
+								<ExplodeX>0.0</ExplodeX>
+								<ExplodeY>0.0</ExplodeY>
+								<ExplodeZ>-1.0</ExplodeZ>
+								<ExplodeMin>100.0</ExplodeMin>
+							</ExplosionInfo>
+							
+							<GameObjects>
+								<GO>Barreno_Tipo_54</GO>
+								<GO>Barreno_Tipo_55</GO>
+								<GO>Barreno_Tipo_56</GO>
+								<GO>Barreno_Tipo_57</GO>
+								<GO>Barreno_Tipo_58</GO>
+								<GO>Cuerpo_Dummy_Parte_Inferior</GO>
+								<GO>Pernos_Tipo_54</GO>
+								<GO>Pernos_Tipo_55</GO>
+								<GO>Pernos_Tipo_56</GO>
+								<GO>Pernos_Tipo_57</GO>
+								<GO>Pernos_Tipo_58</GO>
+								<GO>Junta_Horizontal_Parte_Inferior</GO>
+								<GO>Zona_Mecanizada_Encastre_Peine_1_001</GO>
+								<GO>Zona_Mecanizada_Encastre_Peine_2_001</GO>
+								<GO>Zona_Mecanizada_Encastre_Peine_3_001</GO>
+								<GO>Zona_Mecanizada_Encastre_Peine_4_001</GO>
+							</GameObjects>
+						</Node>
+					</Children>
+				</Node>
+				
+				<Node name="Rotor">					
+					<ExplosionInfo>
+						<ExplodeX>0.0</ExplodeX>
+						<ExplodeY>0.0</ExplodeY>
+						<ExplodeZ>0.0</ExplodeZ>
+						<ExplodeMin>0.0</ExplodeMin>
+					</ExplosionInfo>	
+
+					<Children>
+						<Node name="Rotor 1">
+							<ExplosionInfo>
+								<ExplodeX>1.0</ExplodeX>
+								<ExplodeY>0.0</ExplodeY>
+								<ExplodeZ>0.0</ExplodeZ>
+								<ExplodeMin>100.0</ExplodeMin>
+							</ExplosionInfo>	
+
+							<GameObjects>
+								<GO>Rotor_de_AP-MP_000</GO>
+								<GO>Rotor_de_AP-MP_002</GO>
+								<GO>Rotor_de_AP-MP_003</GO>
+								<GO>Rotor_de_AP-MP_004</GO>
+								<GO>Rotor_de_AP-MP_005</GO>
+								<GO>Rotor_de_AP-MP_006</GO>
+								<GO>Rotor_de_AP-MP_010</GO>
+								<GO>Rotor_de_AP-MP_017</GO>
+								<GO>Rotor_de_AP-MP_018</GO>
+								<GO>Rotor_de_AP-MP_063</GO>
+								<GO>Rotor_de_AP-MP_007</GO>
+							</GameObjects>
+						</Node>
+						
+						<Node name="Presion intermedia-baja">
+							<ExplosionInfo>
+								<ExplodeX>1.0</ExplodeX>
+								<ExplodeY>0.0</ExplodeY>
+								<ExplodeZ>0.0</ExplodeZ>
+								<ExplodeMin>75.0</ExplodeMin>
+							</ExplosionInfo>	
+
+							<GameObjects>
+								<GO>Rotor_de_AP-MP_029</GO>
+								<GO>Rotor_de_AP-MP_056</GO>
+								<GO>Rotor_de_AP-MP_057</GO>
+								<GO>Rotor_de_AP-MP_058</GO>
+								<GO>Rotor_de_AP-MP_059</GO>
+								<GO>Presion_Intermedia-Baja_Etapa_15</GO>
+								<GO>Presion_Intermedia-Baja_Etapa_15_001</GO>
+								<GO>Presion_Intermedia-Baja_Etapa_16</GO>
+								<GO>Presion_Intermedia-Baja_Etapa_17</GO>
+								<GO>Presion_Intermedia-Baja_Etapa_18</GO>
+								<GO>Presion_Intermedia-Baja_Etapa_19</GO>
+							</GameObjects>						
+						</Node>
+						
+						<Node name="Rotor 2">
+							<ExplosionInfo>
+								<ExplodeX>1.0</ExplodeX>
+								<ExplodeY>0.0</ExplodeY>
+								<ExplodeZ>0.0</ExplodeZ>
+								<ExplodeMin>50.0</ExplodeMin>
+							</ExplosionInfo>	
+
+							<GameObjects>
+								<GO>Rotor_de_AP-MP_055</GO>
+								<GO>Rotor_de_AP-MP_067</GO>
+								<GO>Rotor_de_AP-MP_008</GO>
+							</GameObjects>						
+						</Node>
+						
+						<Node name="Curtis">
+							<ExplosionInfo>
+								<ExplodeX>1.0</ExplodeX>
+								<ExplodeY>0.0</ExplodeY>
+								<ExplodeZ>0.0</ExplodeZ>
+								<ExplodeMin>25.0</ExplodeMin>
+							</ExplosionInfo>	
+
+							<GameObjects>
+								<GO>Rotor_de_AP-MP_054</GO>
+								<GO>Curtis_N_1</GO>
+								<GO>Curtis_N_1_001</GO>
+								<GO>Curtis_N_2</GO>
+							</GameObjects>						
+						</Node>
+						
+						<Node name="Rotor 3">
+							<ExplosionInfo>
+								<ExplodeX>0.0</ExplodeX>
+								<ExplodeY>0.0</ExplodeY>
+								<ExplodeZ>0.0</ExplodeZ>
+								<ExplodeMin>0.0</ExplodeMin>
+							</ExplosionInfo>	
+
+							<GameObjects>
+								<GO>Rotor_de_AP-MP_043</GO>
+								<GO>Rotor_de_AP-MP_044</GO>
+								<GO>Rotor_de_AP-MP_044</GO>
+							</GameObjects>						
+						</Node>
+						
+						<Node name="Rotor 5">
+							<ExplosionInfo>
+								<ExplodeX>-1.0</ExplodeX>
+								<ExplodeY>0.0</ExplodeY>
+								<ExplodeZ>0.0</ExplodeZ>
+								<ExplodeMin>100.0</ExplodeMin>
+							</ExplosionInfo>	
+
+							<GameObjects>
+								<GO>Rotor_de_AP-MP_009</GO>
+								<GO>Rotor_de_AP-MP_011</GO>
+								<GO>Rotor_de_AP-MP_012</GO>
+								<GO>Rotor_de_AP-MP_014</GO>
+								<GO>Rotor_de_AP-MP_015</GO>
+								<GO>Rotor_de_AP-MP_016</GO>
+								<GO>Rotor_de_AP-MP_019</GO>
+								<GO>Rotor_de_AP-MP_020</GO>
+								<GO>Rotor_de_AP-MP_021</GO>
+								<GO>Rotor_de_AP-MP_022</GO>
+								<GO>Rotor_de_AP-MP_013</GO>								
+							</GameObjects>						
+						</Node>
+						
+						<Node name="Presion intermedia-alta">
+							<ExplosionInfo>
+								<ExplodeX>-1.0</ExplodeX>
+								<ExplodeY>0.0</ExplodeY>
+								<ExplodeZ>0.0</ExplodeZ>
+								<ExplodeMin>75.0</ExplodeMin>
+							</ExplosionInfo>	
+
+							<GameObjects>
+								<GO>Rotor_de_AP-MP_023</GO>
+								<GO>Rotor_de_AP-MP_024</GO>
+								<GO>Rotor_de_AP-MP_025</GO>
+								<GO>Rotor_de_AP-MP_026</GO>
+								<GO>Rotor_de_AP-MP_027</GO>
+								<GO>Rotor_de_AP-MP_028</GO>
+								<GO>Presion_Intermedia-Alta_Etapa_10</GO>
+								<GO>Presion_Intermedia-Alta_Etapa_10_001</GO>
+								<GO>Presion_Intermedia-Alta_Etapa_11</GO>
+								<GO>Presion_Intermedia-Alta_Etapa_12</GO>
+								<GO>Presion_Intermedia-Alta_Etapa_13</GO>
+								<GO>Presion_Intermedia-Alta_Etapa_14</GO>
+							</GameObjects>						
+						</Node>						
+						
+						<Node name="Rotor 4">
+							<ExplosionInfo>
+								<ExplodeX>-1.0</ExplodeX>
+								<ExplodeY>0.0</ExplodeY>
+								<ExplodeZ>0.0</ExplodeZ>
+								<ExplodeMin>50.0</ExplodeMin>
+							</ExplosionInfo>	
+
+							<GameObjects>
+								<GO>Rotor_de_AP-MP_053</GO>
+							</GameObjects>						
+						</Node>						
+						
+						<Node name="Alta presion">
+							<ExplosionInfo>
+								<ExplodeX>-1.0</ExplodeX>
+								<ExplodeY>0.0</ExplodeY>
+								<ExplodeZ>0.0</ExplodeZ>
+								<ExplodeMin>25.0</ExplodeMin>
+							</ExplosionInfo>	
+
+							<GameObjects>
+								<GO>Rotor_de_AP-MP_001</GO>
+								<GO>Rotor_de_AP-MP_033</GO>
+								<GO>Rotor_de_AP-MP_034</GO>
+								<GO>Rotor_de_AP-MP_037</GO>
+								<GO>Rotor_de_AP-MP_038</GO>
+								<GO>Rotor_de_AP-MP_039</GO>
+								<GO>Rotor_de_AP-MP_040</GO>
+								<GO>Rotor_de_AP-MP_041</GO>
+								<GO>Rotor_de_AP-MP_042</GO>
+								<GO>Alta_presion_Etapa_1</GO>
+								<GO>Alta_presion_Etapa_2</GO>
+								<GO>Alta_presion_Etapa_3</GO>
+								<GO>Alta_presion_Etapa_4</GO>
+								<GO>Alta_presion_Etapa_5</GO>
+								<GO>Alta_presion_Etapa_6</GO>
+								<GO>Alta_presion_Etapa_7</GO>
+								<GO>Alta_presion_Etapa_8</GO>
+								<GO>Alta_presion_Etapa_9</GO>
+								<GO>Alta_presion_Etapa_9_001</GO>
+							</GameObjects>						
+						</Node>						
+					</Children>					
+				</Node>
+			</Children>
+		</Node>		
+ 	</ProductTree>
+ </Product>

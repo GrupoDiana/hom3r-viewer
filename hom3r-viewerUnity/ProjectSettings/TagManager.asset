@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - go_father
+  - gui
+  - go_script
+  - cm_panel
+  - gizmo
+  - slider_transparency
+  - uiManager_script
+  - GizmoCamera
+  - explode_icon_tag
+  - implode_icon
+  - transparency_icon
+  - handle_slide_extern_area
+  - handle_slide_area
+  - handle_slide_extern_area_2
+  - coordinates_icon
+  - ui_alertText
+  - gizmoModel_tag
+  - isolate_icon_tag
+  - trianglesMesh_tag
+  - canvas_tag
+  - SPClose_icon_tag
+  - singlePoints_tag
+  - SPD_icon_tag
+  - SLP_delete_tag
+  - SPSave_icon_tag
+  - SPClose_popUpPanel_tag
+  - panel_Nav_tag
+  - panel_Occl_tag
+  - panel_SP_tag
+  - transparency_icon
+  - hide_icon_tag
+  - explodeLayout_icon_tag
+  - hierarchy_icon_tag
+  - SP_text_tag
+  - SPClose_text_tag
+  - panel_Hierarchy_tag
+  - text_indicatedArea_tag
+  - text_indicatedComponent_tag
+  - title_indicatedArea_tag
+  - showPartNameLabel_icon_tag
+  - labels
+  - experiment_panel
+  - experiment_panel_text
+  - experiment_panel_text_question
+  - standalone_panel
+  - NavigationSystem_tag
+  - secundarycamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - go_father_layer
+  - gizmo_layer
+  - labels_layer
+  - singlePoints_layer
+  - SPConectors_layer
+  - labels_ui_layer
+  - no_visible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -23,13 +23,10 @@ Gonzalez-Toledo, D., Cuevas-Rodriguez, M., Molina-Tanco, L., & Reyes-Lecuona, A.
 
 ## Credits
 
-This software is being developed by a team coordinated by 
-- [Arcadio Reyes-Lecuona](https://github.com/areyesl) ([Diana Research Group, University of Malaga](https://www.diana.uma.es/?page_id=53)). Contact: areyes@uma.es
-
-The current members of the development team are (in alphabetical order):
-- [Maria Cuevas-Rodriguez](https://github.com/mariacuevas) ([University of Malaga](https://www.uma.es/))
-- [Daniel Gonzalez-Toledo](https://github.com/dgonzalezt) ([University of Malaga](https://www.uma.es/)) Contact: dgonzalezt@uma.es
-- [Luis Molina-Tanco](https://github.com/lmtanco) ([University of Malaga](https://www.uma.es/))
+This software is one of the main contributions of the PhD thesis “Interacción 3D con objetos complejos” by Daniel González-Toledo, but the whole 3DI-DIANA team has contributed to the library, its deployment in the applications developed for Use-it-Wisely and PLUGGY project and all the technical testing. The development has been coordinated by [Arcadio Reyes-Lecuona](https://github.com/areyesl) ([Diana Research Group, University of Malaga](https://www.diana.uma.es/?page_id=53)). Contact: areyes@uma.es. And the current members of the development team are (in alphabetical order):
+- [Maria Cuevas-Rodriguez](https://github.com/mariacuevas). 
+- [Daniel Gonzalez-Toledo](https://github.com/dgonzalezt). Contact: dgonzalezt@uma.es
+- [Luis Molina-Tanco](https://github.com/lmtanco).
 
 
 ## Copyright and License

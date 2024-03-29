@@ -1,0 +1,3 @@
+[submodule "hom3r-viewerUnity/Assets/Scripts/hom3r-engine"]
+	path = hom3r-viewerUnity/Assets/Scripts/hom3r-engine
+	url = https://github.com/GrupoDiana/hom3r-engine.git
